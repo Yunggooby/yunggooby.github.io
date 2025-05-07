@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Welcome to tha goobsite baybeeeeeeeeee
+
+[gooby](assets/gooby_engr.png)
