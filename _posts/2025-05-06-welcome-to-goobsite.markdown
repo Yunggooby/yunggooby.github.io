@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 
 Welcome to tha goobsite baybeeeeeeeeee
+<img src="assets/imgs/schmoo.png">
 
-[gooby](assets/gooby_engr.png)

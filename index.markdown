@@ -4,5 +4,6 @@
 
 layout: home
 
-Welcome to gooby's wonderful website :)
 ---
+
+Welcome to gooby's wonderful website :)
