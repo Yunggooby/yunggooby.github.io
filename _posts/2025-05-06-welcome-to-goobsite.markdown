@@ -2,10 +2,10 @@
 layout: post
 title: "welcome to goobsite"
 date: 2025-05-06 16:23:05 +0900
-categories: jekyll update
+categories: jekyll updates
 ---
 
 Welcome to tha goobsite baybeeeeeeeeee
 
-![schmoo](/assets/imgs/schmoo.png)
-
+<img src="/assets/imgs/schmoo.png"><img/>
+<script type="module" src="/assets/js/welcome.js"></script>
